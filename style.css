@@ -1,0 +1,66 @@
+.hed1{
+    border: 1px solid wheat;
+    background-color: lightgray;
+    padding-left: 20px  ;
+    padding-right: 20%;
+}
+.hed{
+    border: 2px solid black;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    
+}
+.tub{
+    justify-content: center;
+}
+body{
+    padding-left: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+}
+
+.top{
+    padding-bottom: 30px;
+    padding-right: 50px;
+    
+}
+.sub{
+    padding-left: 8px;
+}
+
+form{
+    display: block;
+    padding-bottom: 10px;
+    padding-left:10px;
+}
+.name{
+    width: 95%;
+    padding: 5px;
+}
+.address{
+    width: 95%;
+    padding: 5px;
+}
+.bo{
+    padding-bottom: 15px;
+}
+.na{
+    padding-bottom: 15px;
+}
+button{
+    background-color: rgb(116, 181, 116);
+    border-radius: 2px;
+    text-align: center;
+    width: 90%;
+    padding: 1%;
+    padding-left: 20px;
+    margin-left: 22px;
+}
+.bu{
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color: lightgray;
+    padding: 3% 0%;
+    padding-left: 8px;
+}
